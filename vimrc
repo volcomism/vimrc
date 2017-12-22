@@ -1,5 +1,6 @@
 " load plugins
 execute pathogen#infect()
+syntax on
 call pathogen#helptags()
 
 set nocompatible              " be iMproved, required
